@@ -6,7 +6,7 @@
 	<artifactId>grpcService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<io.grpc.version>1.20.0</io.grpc.version>
+		<io.grpc.version>1.53.0</io.grpc.version>
 	</properties>
 	<build>
 		<extensions>
